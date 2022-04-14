@@ -8,3 +8,7 @@ Here are some bad stats ...<br />
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almost89" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Almost89&show_icons=true)" />
+<br />
+Some links and stuff ...<br />
+<br />
+![Roblox](https://images.rbxcdn.com/3b43a5c16ec359053fef735551716fc5.ico)(https://devforum.roblox.com/)
