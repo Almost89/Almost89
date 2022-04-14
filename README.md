@@ -11,7 +11,7 @@ Here are some bad stats ...
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Almost89&show_icons=true)" />
 <br />
 <br />
-You can find me on [![Roblox][1]][2]
+[![Roblox][1]][2]
 
 <!-- Icon(s) -->
 
