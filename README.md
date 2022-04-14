@@ -11,4 +11,4 @@ Here are some bad stats ...<br />
 <br />
 Some links and stuff ...<br />
 <br />
-![Roblox](https://images.rbxcdn.com/3b43a5c16ec359053fef735551716fc5.ico)(https://devforum.roblox.com/)
+<img align="center" src="https://images.rbxcdn.com/3b43a5c16ec359053fef735551716fc5.ico" herf="https://web.roblox.com/users/2046490515/profile">
