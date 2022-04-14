@@ -1,7 +1,7 @@
 # Hoi 👋
 I'm Almost89!
 
-I like coding (and playing) in Roblox! (View my games and stuff ![here](https://devforum.roblox.com/))
+I like coding (and playing) in Roblox! (View my games and stuff [here](https://devforum.roblox.com/))
 I love making plugins.
 
 Here are some bad stats ...<br />
