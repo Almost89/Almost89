@@ -1,7 +1,7 @@
 # Hoi 👋
 I'm Almost89!
 
-I like coding (and playing) in Roblox! (View my games and stuff [here](https://devforum.roblox.com/))
+I like coding (and playing) in Roblox! (View my games and stuff [here](https://roblox.com/users/2046490515/profile#!/creationss))
 I love making plugins.
 
 Here are some bad stats ...
@@ -11,9 +11,9 @@ Here are some bad stats ...
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Almost89&show_icons=true)" />
 <br />
 <br />
-[![Roblox][1]][2]
+[![Roblox link][1]][2]
 
 <!-- Icon(s) -->
 
 [1]: https://images.rbxcdn.com/3b43a5c16ec359053fef735551716fc5.ico
-[2]: https://web.roblox.com/users/2046490515/profile
+[2]: https://roblox.com/users/2046490515/profile
