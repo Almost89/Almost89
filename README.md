@@ -1,8 +1,8 @@
 # Hoi 👋
 I'm Almost89!
 
-I like coding (and playing) in Roblox! (View my games and stuff [here][2])
-I love making plugins.
+I like coding (and playing) in [Roblox](https://roblox.com)! (View my games and stuff [here][2])
+I love making plugins.<br />
 I also like playing around in [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/2.1.x/).
 
 Here are some bad stats ...
