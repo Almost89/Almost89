@@ -12,7 +12,7 @@ Here are some bad stats ...
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Almost89&show_icons=true)" />
 <br>
 <br>
-> Check out my website [here][5]!
+Check out my website [here][5]!
 <br>
 <br>
 [![Roblox link][1]][3]
