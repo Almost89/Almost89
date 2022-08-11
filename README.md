@@ -15,14 +15,11 @@ Here are some bad stats ...
 Check out my website [here][5]!
 <br />
 <br />
-[![Roblox link][1]][3]
+[Roblox profile][3]
 
 <!-- Icons -->
 
-[1]: https://images.rbxcdn.com/3b43a5c16ec359053fef735551716fc5.ico
-
 <!-- Links -->
-
 [2]: https://roblox.com/users/2046490515/profile#!/creations
 [3]: https://roblox.com/users/2046490515/profile
 [4]: https://flask.palletsprojects.com/en/2.1.x/
