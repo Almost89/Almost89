@@ -1,6 +1,5 @@
 # Hoi 👋
 ### I'm Almost89!
 
-### Who r u?
-I love playing and developing in roblox.
-I also like messing around with web development.
+I love developing in roblox whether that's games or plugins!
+I also like messing around with UI design and web development (normally that's JavaScript, HTML and CSS).
