@@ -2,7 +2,7 @@
 
   # Hoi, I'm [Almost89](https://almost89.github.io) 👋
   ### No, I'm not that old.
-  <sub>Btw that's just my nickname (Also FYI I called myself that. I don't look old *ok*. You know what? just drop the subject).</sub>
+  <sub>It's just my nickname (FYI I called myself that. I don't look old *ok*. You know what? just drop the subject).</sub>
   
   <br/>
   I love developing in Roblox whether that's games or plugins!<br/>
